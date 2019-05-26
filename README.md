@@ -12,7 +12,8 @@ Run the following to generate the required configuration files:
 `python setup.py`
 
 ##### Caption.txt
-This is the Instagram caption posted on each programmatic post. I generally just use a generic message like: "follow @icodestuff.io for more content like this"
+This is the Instagram caption posted on each programmatic post. I generally just use a generic message like: 
+>"follow @icodestuff.io for more content like this"
 
 ##### Hashtags.txt
 This file provides hashtags on each Instagram post. You can leave it empty, however using it will drastically increase your engagement Checkout caption.txt.example
