@@ -16,7 +16,11 @@ This is the Instagram caption posted on each programmatic post. I generally just
 >"follow @icodestuff.io for more content like this"
 
 ##### Hashtags.txt
-This file provides hashtags on each Instagram post. You can leave it empty, however using it will drastically increase your engagement Checkout caption.txt.example
+This file provides hashtags on each Instagram post. You can leave it empty, however using it will drastically increase your engagement 
+>.
+.
+.
+#example #example #example #example
 
 ##### Credentials.json
 This file required as it allows the user to login to both Reddit and Instagram programmatically. The file also has a user-agent field with the default _icodestuff.io/bot_ which you can change anything to you want. The file also contains the subreddit url where your content derives from. To generate a subreddit url just follow the example in the credentials.json.example
