@@ -1,0 +1,9 @@
+credentials.json
+images
+videos
+icodestuff.bat
+venv/
+caption.txt
+hashtags.txt
+.vscode/
+.idea/
